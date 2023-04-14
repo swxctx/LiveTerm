@@ -1,17 +1,17 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "title": "OOZ",
+  "name": "usthooz",
+  "ascii": "ooz",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "usthooz",
+    "github1": "swxctx"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
+  "email": "oozhuya@gmail.com",
+  "ps1_hostname": "ooz",
   "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+  "repo": "https://github.com/usthooz",
+  "resume_url": "https://github.com/swxctx",
   "donate_urls": {
     "paypal": "https://paypal.me/cveinnt",
     "patreon": "https://patreon.com/cveinnt"
